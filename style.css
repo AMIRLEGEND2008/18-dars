@@ -1,0 +1,68 @@
+.imgas{
+    padding: 0px 115px;
+    background-color: darkseagreen;
+  
+}
+nav ul .li{
+    display: inline-block;
+}
+
+nav ul li .li {
+    
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    margin-right: 45px;
+ 
+}
+nav ul li {
+    display: inline-block;
+    margin: 0px 20px;
+}
+body{
+    background-color: darkseagreen;
+}
+nav ul {
+    float: right;
+   
+    
+}
+ header nav  button{
+    background-color:darkseagreen ;
+    border-radius: 20%;
+   
+   width: 100px;
+   height: 65px;
+   display: inline-block;
+   margin-top: -1000px;
+}
+nav ul button  {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    margin-top: -100px;
+    background-color: rgb(6, 255, 6);
+}
+.ID---TEXT{
+    margin-top: 102px;
+    font-size: 32px;
+    margin-left: 102px;
+    color: green;
+}
+.nike{
+    font-size: 65px;
+    margin-left: 102px;
+}
+#porem{
+    font-size: 20px;
+    margin-left: 102px;
+    margin-top: -35px;
+}
+.span{
+    color: green;
+    font-size: 20px;
+}
+p{
+    font-size: 20px; 
+    margin-left: 102px;
+}
